@@ -13,14 +13,14 @@
         220,
         240
       ],
-      "id": "be1e8b39-c405-4beb-b9d4-3ac98e157c19",
+      "id": "be1e8b39-d4-3ac98e157c19",
       "name": "Simple Memory"
     },
     {
       "parameters": {
         "operation": "send",
-        "phoneNumberId": "647433411796596",
-        "recipientPhoneNumber": "+919542599205",
+        "phoneNumberId": "id",
+        "recipientPhoneNumber": "your_phonr_number",
         "textBody": "={{ $json.output }}",
         "additionalFields": {
           "previewUrl": false
@@ -34,10 +34,10 @@
       ],
       "id": "7b2fc330-21a5-49a6-9cd7-dff5f03ebae3",
       "name": "WhatsApp Business Cloud",
-      "webhookId": "fe010160-0b94-446a-8628-14f8261adb3e",
+      "webhookId": "fe010t97gu160-0b94-446ha-8628-14fiyv8261adb3e",
       "credentials": {
         "whatsAppApi": {
-          "id": "JDol5d3Kw9F3CB74",
+          "id": "JDol5d3hvhKw9F3CB74",
           "name": "WhatsApp account"
         }
       }
@@ -55,12 +55,12 @@
         0,
         0
       ],
-      "id": "1709ebe6-37e6-4727-be86-1aa19c8ab920",
+      "id": "1709ebuecke6-37e6-4727-be86-1aa19c8g8ab920",
       "name": "Chat Received",
-      "webhookId": "f2dcc21b-b5de-4016-9920-f47724f04171",
+      "webhookId": "f2dcce721b-b5de-4016-9920-f477d8i24f04171",
       "credentials": {
         "whatsAppTriggerApi": {
-          "id": "VpGlSYV8bbAb67KG",
+          "id": "VpGlSYV8ui8bbAb67KG",
           "name": "WhatsApp OAuth account"
         }
       }
@@ -76,11 +76,11 @@
         60,
         240
       ],
-      "id": "0e0167b8-d65d-4228-b1ae-9c89384fc554",
+      "id": "0e016vh7b8-d65d-4228-b1ae-9c89khv384fc554",
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "b2sHBJ2m01E8GPzj",
+          "id": "b2sHBJ25dtycm01E8GPzj",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -98,7 +98,7 @@
         220,
         0
       ],
-      "id": "5dd1a6aa-afa6-445e-936b-1776e96ec298",
+      "id": "iyv-afa6-445e-936b-1776e96ec298",
       "name": "AI Agent1"
     }
   ],
@@ -153,11 +153,11 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "23489a3d-f560-4d73-a85a-4eba97afce0b",
+  "versionId": "23489a3d-duyf560-4d73-a85a-4eba97afce0b",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "2e41369c0309aa76e6ba6208577c24196dd97eac7e229af0e5fb59aa50aeccef"
+    "instanceId": "2e41369c0309ad6uya76e6ba6208577c24196dd97eac7e229af0e5fb59aa50aeccef"
   },
-  "id": "cJSMVfXvUyqwhJx9",
+  "id": "cJSMVfXjvUyqwhJx9",
   "tags": []
 }
